@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://avatars.githubusercontent.com/u/236954958?v=4" alt="Pratyush Raj" width="290" /> <br /> <strong>Pratyush Raj</strong> </p>
 
-## About Me
+ About Me
 
 **Pratyush Raj**  
 Aspiring developer and student from India, passionate about technology and creativity,  
@@ -30,5 +30,11 @@ thanks for giving your precious time so please follow and veiw my repositories
 - Contribute meaningfully to open-source
 
 ---
+🌟 Personal Philosophy
+I believe in learning by doing — every project is a step forward.
+
+Curiosity drives me to explore new ideas and technologies.
+
+I value clean code, clear communication, and continuous improvement.
 
 _Thanks for stopping by_

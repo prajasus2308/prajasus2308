@@ -5,7 +5,7 @@
 ## About Me
 
 **Pratyush Raj**  
-Aspiring developer and student from India, passionate about technology and creativity[attached_image:1].  
+Aspiring developer and student from India, passionate about technology and creativity,  
 Currently deepening my knowledge in **Python** and **HTML** while building web projects.
 
 ---
@@ -21,8 +21,8 @@ Currently deepening my knowledge in **Python** and **HTML** while building web p
 - Exploring new programming languages
 - Automotive design, digital art, and 3D modeling
 - Engaged with physics and mathematics studies
+thanks for giving your precious time so please follow and veiw my repositories
 
----
 
 ### 🎯 Goals
 - Master advanced web development concepts

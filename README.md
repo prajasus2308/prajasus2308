@@ -1,6 +1,3 @@
-# Hi there 👋
-
-<img src="Snapchat-165024923.jpg" alt="Pratyush Raj | 
 
 ## About Me
 

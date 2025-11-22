@@ -37,4 +37,4 @@ Curiosity drives me to explore new ideas and technologies.
 
 I value clean code, clear communication, and continuous improvement.
 
-_Thanks for stopping by_
+_Thanks for stopping by here i am trying to learn more languges so be with me and follow me_

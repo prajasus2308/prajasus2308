@@ -3,6 +3,17 @@
 <p align="center"> <img src="https://avatars.githubusercontent.com/u/236954958?v=4" alt="Pratyush Raj" width="290" /> <br /> <strong>Pratyush Raj</strong> </p>
 
  About Me
+ 
+
+🌱 I’m currently learning css , c++, javascript
+
+📝 I regularly write articles on https://codepen.io/prajasus2308
+
+💬 Ask me about  HTML,, Python
+
+📫 How to reach me praj.asus2308@gmail.com  <p align="right">
+  <img src="https://github.com/user-attachments/assets/76dc60f7-f341-4810-a7e0-1eab7537b1e7" alt="Coding Animated" width="400"/>
+</p>
 
 **Pratyush Raj**  
 Aspiring developer and student from India, passionate about technology and creativity,  

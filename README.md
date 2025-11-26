@@ -47,6 +47,14 @@ thanks for giving your precious time so please follow and veiw my repositories
 - Build full-stack applications
 - Contribute meaningfully to open-source
 
+  ---
+ 🧰 Tools & Version Control
+
+ 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+
 ---
 🌟 Personal Philosophy
 I believe in learning by doing — every project is a step forward.

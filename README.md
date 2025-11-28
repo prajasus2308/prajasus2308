@@ -1,6 +1,12 @@
-  
+<p align="center">
+  <img src="https://copilot.microsoft.com/th/id/BCO.fd84c4b1-2163-4ccc-8de2-3b51e59ef8f1.png" alt="Coding Emoticon" width="350"/>
+</p>
+
 
 <p align="center"> <img src="https://avatars.githubusercontent.com/u/236954958?v=4" alt="Pratyush Raj" width="290" /> <br /> <strong>Pratyush Raj</strong> </p>
+
+
+
 
  About Me
  

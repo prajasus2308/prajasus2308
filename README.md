@@ -33,8 +33,8 @@
 
 **Pratyush Raj**  
 Aspiring developer and student from India, passionate about technology and creativity,  
-Currently deepening my knowledge in **Python** and **HTML** while building web projects.
-
+Currently deepening my knowledge in **Python** and **HTML** while building web projects.                                      <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="100" width="100"/>
+                                                                                         
 ---
 
 ### 🚀 What I'm Learning
@@ -73,3 +73,8 @@ Curiosity drives me to explore new ideas and technologies.
 I value clean code, clear communication, and continuous improvement.
 
 _Thanks for stopping by here i am trying to learn more languges so be with me and follow me_
+<p align="center">
+  <img src="https://copilot.microsoft.com/th/id/BCO.3dc6fe7d-d32f-4a09-9898-a4e34fd8b993.png" alt="praj.coder banner" width="850"><br>
+  <sub>GitHub profile banner · praj.coder</sub>
+</p>
+

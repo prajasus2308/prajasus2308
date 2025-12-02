@@ -74,4 +74,5 @@ _Thanks for stopping by here i am trying to learn more languges so be with me an
   <img src="https://copilot.microsoft.com/th/id/BCO.3dc6fe7d-d32f-4a09-9898-a4e34fd8b993.png" alt="praj.coder banner" width="850"><br>
   <sub>GitHub profile banner · praj.coder</sub>
 </p>
+<img width="1718" height="1272" alt="file-type-distribution" src="https://github.com/user-attachments/assets/a6efafd0-9ff6-45dd-8e7b-221f26f93178" />
 

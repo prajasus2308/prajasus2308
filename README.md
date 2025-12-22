@@ -66,6 +66,7 @@ thanks for giving your precious time so please follow and veiw my repositories
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/244d7be3-69ff-4eb0-bf8b-267ad23d9d91" />
 
 ---
 🌟 Personal Philosophy

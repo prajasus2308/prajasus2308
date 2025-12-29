@@ -5,10 +5,9 @@
 </p>
 
 
-
 <p align="center"> <img src="https://avatars.githubusercontent.com/u/236954958?v=4" alt="Pratyush Raj" width="290" /> <br /> <strong>Pratyush Raj</strong> </p>
 
-
+ 
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUydDdkYWlmbTIzMm81eThyZXBuM3Z6b2c0amhsaHN6NmZtNjh6emN6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" alt="GIF" width="400">

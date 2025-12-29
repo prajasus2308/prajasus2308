@@ -81,4 +81,5 @@ _Thanks for stopping by here i am trying to learn more languges so be with me an
   <img src="https://copilot.microsoft.com/th/id/BCO.3dc6fe7d-d32f-4a09-9898-a4e34fd8b993.png" alt="praj.coder banner" width="850"><br>
   <sub>GitHub profile banner · praj.coder</sub>
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ad5aa6f9-9c9d-48b7-80e8-49b6e4be6bff" />
 

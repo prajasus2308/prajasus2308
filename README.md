@@ -1,5 +1,18 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
+
+<p align="center">
+  <img 
+    src="https://thumbs.dreamstime.com/b/programmer-works-desk-multiple-monitors-displaying-code-dark-room-lit-neon-lights-creating-modern-tech-404842732.jpg" 
+    alt="Programmer working on AI projects" 
+    width="600"
+  />
+</p>
+
+<p align="center">
+  <em>Late-night coding with multiple monitors — building modern AI projects.</em>
+</p>
+
 <p align="center">
   <img src="https://copilot.microsoft.com/th/id/BCO.fd84c4b1-2163-4ccc-8de2-3b51e59ef8f1.png" alt="Coding Emoticon" width="350"/>
 </p>

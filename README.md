@@ -15,6 +15,10 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/praj.asus2308.png" alt="Your Image Badge" />
+
+
  About Me
  
 

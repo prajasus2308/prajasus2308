@@ -18,6 +18,14 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/praj.asus2308.png" alt="Your Image Badge" />
 
+# 📊 GitHub Stats:
+
+<p align="center">
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=HasanAlasker&theme=dark&hide_border=false" />
+  <br/>
+</p>
+
 
  About Me
  

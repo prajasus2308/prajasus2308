@@ -113,6 +113,8 @@ _Thanks for stopping by here i am trying to learn more languges so be with me an
   <img src="https://copilot.microsoft.com/th/id/BCO.3dc6fe7d-d32f-4a09-9898-a4e34fd8b993.png" alt="praj.coder banner" width="850"><br>
 
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f0c4133d-ef9b-4129-bb2d-ab45052288c4" />
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ef75c42b-512e-443c-b4a7-66e662f67fcb" />
+
 
 

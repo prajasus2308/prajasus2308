@@ -43,27 +43,10 @@
   </a>
 </p>
 
-📧 **Email:** `praj.asus2308@gmail.com`
-
-
-
-
-
 <h3 align="center">
   ⭐ If you like my work, consider starring my repositories!
+  this means a lot for me
 </h3>
-
-
-<p align="center">
-  <img 
-    src="https://thumbs.dreamstime.com/b/programmer-works-desk-multiple-monitors-displaying-code-dark-room-lit-neon-lights-creating-modern-tech-404842732.jpg" 
-    alt="Programmer working on AI projects" 
-    width="600"
-  />
-</p>
-
-
-
 
 <p align="center"> <img src="https://avatars.githubusercontent.com/u/236954958?v=4" alt="Pratyush Raj" width="290" /> <br /> <strong>Pratyush Raj</strong> </p>
 

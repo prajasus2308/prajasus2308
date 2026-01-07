@@ -1,4 +1,57 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+<!-- PROFILE HEADER -->
+<h1 align="center">
+  Hi 👋, I'm Pratyush Raj
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;Open+Source+Enthusiast;HTML+CSS+JavaScript;Learning+Python&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-8d0d9d4c-8a7b-4b25-bae2-1a9a8f5a1b47.gif" width="400">
+</p>
+
+---
+
+
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github&perline=6" />
+</p>
+
+
+## 🚀 What I Build
+
+- 🎮 Web games (HTML, CSS, JS)
+- 🧩 Interactive UI projects
+- 🐍 Python logic & mini apps
+- 🌍 Open-source work under **praj.coding**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/prajasus2308">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://discord.gg/m3WktNExTh">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
+
+📧 **Email:** `praj.asus2308@gmail.com`
+
+
+
+
+
+<h3 align="center">
+  ⭐ If you like my work, consider starring my repositories!
+</h3>
 
 
 <p align="center">
@@ -9,18 +62,6 @@
   />
 </p>
 
-<p align="center">
-  <em>Late-night coding with multiple monitors — building modern AI projects.</em>
-</p>
-
-<p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.fd84c4b1-2163-4ccc-8de2-3b51e59ef8f1.png" alt="Coding Emoticon" width="350"/>
-</p>
-
-
-<p align="center">
-  <em>Layers learning in motion — a quick peek at the forward pass.</em>
-</p>
 
 
 

@@ -141,4 +141,8 @@ _Thanks for stopping by here i am trying to learn more languges so be with me an
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ef75c42b-512e-443c-b4a7-66e662f67fcb" />
 
 
+## 🌟 Highlights
+
+**⭐ PRO**  
+[🚫 Block or Report](https://github.com/prajasus2308#block-report)
 

@@ -3,7 +3,7 @@
 <h1 align="center">
   Hi 👋, I'm Pratyush Raj
 </h1>
-
+ 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;Open+Source+Enthusiast;HTML+CSS+JavaScript;Learning+Python&center=true&width=500&height=45">
 </p>

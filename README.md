@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;Open+Source+Enthusiast;HTML+CSS+JavaScript;Learning+Python&center=true&width=500&height=45">
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=evert&weight=500&pause=1000&center=true&width=435&lines=Pratyush+Raj++a++frontend+web+developer++;Pratyush+Raj+%E2%80%94+crafting+elegant+UIs+with+code;Pratyush+Raj+%7C+Passionate+about+clean%2C+responsive+design;Pratyush+Raj%3A+Building+web+magic+one+line+at+a+time;Open-source+contributor+%26+robotics+enthusiast++Loves+glowing+buttons+and+interactive+menus" alt="Typing SVG" /></a>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-8d0d9d4c-8a7b-4b25-bae2-1a9a8f5a1b47.gif" width="400">
 </p>

@@ -1,9 +1,52 @@
-<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+ <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+<!-- PROFILE HEADER -->
+<h1 align="center">
+  Hi 👋, I'm Pratyush Raj
+</h1>
 
 <p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.fd84c4b1-2163-4ccc-8de2-3b51e59ef8f1.png" alt="Coding Emoticon" width="350"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;Open+Source+Enthusiast;HTML+CSS+JavaScript;Learning+Python&center=true&width=500&height=45">
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-8d0d9d4c-8a7b-4b25-bae2-1a9a8f5a1b47.gif" width="400">
+</p>
+
+---
+
+
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github&perline=6" />
+</p>
+
+
+## 🚀 What I Build
+
+- 🎮 Web games (HTML, CSS, JS)
+- 🧩 Interactive UI projects
+- 🐍 Python logic & mini apps
+- 🌍 Open-source work under **praj.coding**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/prajasus2308">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://discord.gg/m3WktNExTh">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
+
+<h3 align="center">
+  ⭐ If you like my work, consider starring my repositories!
+  this means a lot for me
+</h3>
 
 <p align="center"> <img src="https://avatars.githubusercontent.com/u/236954958?v=4" alt="Pratyush Raj" width="290" /> <br /> <strong>Pratyush Raj</strong> </p>
 
@@ -12,6 +55,20 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUydDdkYWlmbTIzMm81eThyZXBuM3Z6b2c0amhsaHN6NmZtNjh6emN6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" alt="GIF" width="400">
 </p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/praj.asus2308.png" alt="Your Image Badge" />
+
+# 📊 GitHub Stats:
+
+<p align="center">
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=HasanAlasker&theme=dark&hide_border=false" />
+  <br/>
+</p>
+
 
  About Me
  
@@ -80,6 +137,12 @@ _Thanks for stopping by here i am trying to learn more languges so be with me an
   <img src="https://copilot.microsoft.com/th/id/BCO.3dc6fe7d-d32f-4a09-9898-a4e34fd8b993.png" alt="praj.coder banner" width="850"><br>
 
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f0c4133d-ef9b-4129-bb2d-ab45052288c4" />
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ef75c42b-512e-443c-b4a7-66e662f67fcb" />
+
+
+## 🌟 Highlights
+
+**⭐ PRO**  
+[🚫 Block or Report](https://github.com/prajasus2308#block-report)
 

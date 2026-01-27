@@ -47,7 +47,7 @@
 </p>
 
 <h3 align="center">
-  ⭐ If you like my work, consider starring my repositories!
+  ⭐ If you like my work, consider starring my repositories! <img src="https://i.pinimg.com/originals/46/41/61/4641611401ecb508c625eebe448da663.gif" width="250" height="250" align="right" alt="https://github.com/anshumanjadiya1102">
   this means a lot for me
 </h3>
 

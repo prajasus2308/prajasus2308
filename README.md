@@ -16,7 +16,8 @@
 
 
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack <img height="40" alt="Anshuman Jadiya" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github&perline=6" />

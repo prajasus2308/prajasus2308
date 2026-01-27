@@ -144,4 +144,19 @@ _Thanks for stopping by here i am trying to learn more languges so be with me an
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ef75c42b-512e-443c-b4a7-66e662f67fcb" />
 
+![mona-whisper](https://github.com/user-attachments/assets/79cb265a-94a9-4455-9ea8-56ea5fe249ed)<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=40&pause=1000&color=F75C03&center=true&vCenter=true&width=700&height=60&lines=Don't+Forget+to+Follow!" alt="Follow Anshuman Jadiya" /></a>
+</div>
 
+
+![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
+
+<div align="center">
+
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> _Where creativity meets the beauty in Java_ 
+
+
+
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
+
+ 

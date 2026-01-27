@@ -15,7 +15,6 @@
 ---
 
 
-
 ## 🛠 Tech Stack <img height="40" alt="Pratyush RAJ" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 
@@ -33,9 +32,7 @@
 
 ---
 
-## 🌐 Connect With Me
-<H1> click the button</H1>
-
+## 🌐 Connect With Me               
 <p align="center">
   <a href="https://github.com/prajasus2308">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
@@ -71,7 +68,8 @@
   <br/>
 </p>
 
-
+ <img  src="https://shorturl.at/odfzC" width="500" align="right"> 
+ <BR>
  About Me
  
 

@@ -16,7 +16,7 @@
 
 
 
-## 🛠 Tech Stack <img height="40" alt="Anshuman Jadiya" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+## 🛠 Tech Stack <img height="40" alt="Pratyush RAJ" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 
 <p align="center">
@@ -24,7 +24,7 @@
 </p>
 
 
-## 🚀 What I Build
+## 🚀 What I Build        <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
 - 🎮 Web games (HTML, CSS, JS)
 - 🧩 Interactive UI projects

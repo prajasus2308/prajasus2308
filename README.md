@@ -8,7 +8,7 @@
 </h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=700&height=100&lines=THE+GOAT+CODER+IS+HERE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=700&height=100&lines=Pratyush+lord+CODER+IS+HERE" />
 </p>
  
 <p align="center">

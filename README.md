@@ -6,6 +6,10 @@
 <h1 align="center">
   Hi 👋, I'm Pratyush Raj
 </h1>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=700&height=100&lines=THE+GOAT+CODER+IS+HERE" />
+</p>
  
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;Open+Source+Enthusiast;HTML+CSS+JavaScript;Learning+Python&center=true&width=500&height=45">

@@ -41,7 +41,101 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github&perline=6" />
 </p>
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=aiscript" width="45" height="45"/>
+      <br>AIScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45"/>
+      <br>TensorFlow
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45"/>
+      <br>Rust
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45"/>
+      <br>Solidity
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=haskell" width="45" height="45"/>
+      <br>Haskell
+    </td>
+    <td align="center" width="90">
+      <img src="https://getfoundry.sh/foundry-logo.png" width="45" height="45"/>
+      <br>Foundry
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=go" width="45" height="45"/>
+      <br>GoLang
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="55"/>
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45"/>
+      <br>C++
+    </td>
+  </tr>
 
+  <tr>
+    <td align="center" width="90">Solana</td>
+    <td align="center" width="90">Ethereum</td>
+    <td align="center" width="90">Bitcoin</td>
+    <td align="center" width="90">Binance</td>
+    <td align="center" width="90">Aptos</td>
+    <td align="center" width="90">Polkadot</td>
+    <td align="center" width="90">Cosmos</td>
+    <td align="center" width="90">Polygon</td>
+    <td align="center" width="90">Sui</td>
+  </tr>
+
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="45"/>
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45"/>
+      <br>Next.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45"/>
+      <br>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45"/>
+      <br>Express
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="45" height="45"/>
+      <br>Django
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45"/>
+      <br>FastAPI
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45"/>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=prisma" width="45" height="45"/>
+      <br>Prisma
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45"/>
+      <br>Docker
+    </td>
+  </tr>
+</table>
+<hr style="border:1px solid #7b2cbf;">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
 ## 🚀 What I Build        <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 

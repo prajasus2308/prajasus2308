@@ -286,7 +286,9 @@ _Thanks for stopping by here i am trying to learn more languges so be with me an
 
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> _Where creativity meets the beauty in Java_ 
-
+<p align="center">
+  <img src="./sweetbanner.svg" alt="animated banner" />
+</p
 
 
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>

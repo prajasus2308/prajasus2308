@@ -293,4 +293,7 @@ _Thanks for stopping by here i am trying to learn more languges so be with me an
 
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
 
- 
+ </p>
+<p align="center">
+  <img src="./sweetbanner.svg" alt="animated banner" />
+</p>

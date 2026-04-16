@@ -19,6 +19,7 @@
   Hi 👋, I'm Pratyush Raj
 </h1>
 
+
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=700&height=100&lines=Pratyush+lord+CODER+IS+HERE" />
 </p>
@@ -33,6 +34,8 @@
 
 ---
 ![starline](https://starlines.qoo.monster/assets/anshumanjadiya1102)
+
+
 
 
 ## 🛠 Tech Stack <img height="40" alt="Pratyush RAJ" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>

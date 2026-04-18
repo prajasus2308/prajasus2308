@@ -12,6 +12,9 @@
 
 ###
 <img src="https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif">
+<img width="1600" height="700" alt="image" src="https://github.com/user-attachments/assets/bb7dd59e-160e-41ed-98dc-6ad190b6b599" />
+
+
 
  <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 <!-- PROFILE HEADER -->

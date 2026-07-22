@@ -1,9 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello+Every+GitHub+Souls!!&height=100&section=header"/>
 
 <!-- Visitor Counter for Pratyush Raj -->
- <h6> you are my<p align="center">
-  <img src="https://count.getloli.com/@Pratyush%20Raj?name=Pratyush+Raj&theme=ai-1&padding=7&offset=0&align=top&scale=2&pixelated=1&darkmode=auto&num=50000" alt="Visitor Count for Pratyush Raj" />
-</p> visitor</h6>
+ <h6> you are my
+<p align="center">
+  <img src="https://count.getloli.com/@Pratyush%20Raj?name=Pratyush+Raj&theme=ai-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Visitor Count for Pratyush Raj" />
+</p>
+ visitor</h6>
 
 
 

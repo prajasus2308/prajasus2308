@@ -1,14 +1,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello+Every+GitHub+Souls!!&height=100&section=header"/>
+
+<!-- Visitor Counter for Pratyush Raj -->
+<p align="center">
+  <img src="https://count.getloli.com/@Pratyush%20Raj?name=Pratyush+Raj&theme=ai-1&padding=7&offset=0&align=top&scale=2&pixelated=1&darkmode=auto&num=50000" alt="Visitor Count for Pratyush Raj" />
+</p>
+
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+AM+GOATED+CODER;I+Build+Cool+Web+Apps" />
 </p
 ###
  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prajasus2308/Prajasus2308/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prajasus2308/Prajasus2308/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Prajasus2308/Prajasus2308/output/pacman-contribution-graph.svg">
-</picture>
+
 
 ###
 <img src="https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif">
